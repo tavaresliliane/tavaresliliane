@@ -1,10 +1,10 @@
 
 ![Apresentação github](https://github.com/tavaresliliane/tavaresliliane/assets/138612166/c7928a63-238a-4e86-a3e2-845f0f72f351)
 
- 🟣 Hi, I’m Liliane Tavares
+ > Hi, I’m Liliane Tavares
  
- 🟣 Sou formada em Gestão Pública pela Universidade Federal de Campina Grande e atualmente estudante de Programação
+ > Gestão Pública, pela Universidade Federal de Campina Grande - UFCG
  
- 🟣 Adoro o universo da Tecnologia e tudo que o envolve!
+ > Iniciante nos estudos da Programação e Desenvolvimento Web pela ARNIA
 
-Gestora Pública. Feminista. Analítica. Curiosa. Aprendiz. Imperfeita. Humana
+Mulher. Feminista. Analítica. Curiosa. Aprendiz. Imperfeita. Humana
